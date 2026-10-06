@@ -1,7 +1,7 @@
 function crearTarjetas() {
     let contenido="";
     let divTarjetas=document.getElementById("divTarjetas");
-    let desde=document.getElementById("txtDesde").value;
+    let desde=document.getElementById("txtInicio").value;
     let hasta=document.getElementById("txtHasta").value;
     let salto=document.getElementById("txtSalto").value;
 
